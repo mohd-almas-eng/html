@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Style+Script&display=swap");
+
+body{
+    background-image: url('https://t3.ftcdn.net/jpg/08/30/29/20/360_F_830292015_ygQp4THNtsi9RmhIlZwB0sn3IIdlYRis.jpg');
+    background-repeat: no repeat;
+    background-color: aliceblue;
+    background-position: top center;
+    background-size: cover;
+    color:rgba(204, 218, 20, 0.705);
+    text-align: center;
+    text-decoration: dashed;
+    text-decoration-line: underline;
+    text-shadow: 50px;
+    .style-script-regular {
+      font-family: "Style Script", cursive;
+      font-weight: 400;
+      font-style: normal;
+    }
+    
+      
+}
