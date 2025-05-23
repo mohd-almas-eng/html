@@ -1,0 +1,14 @@
+span{
+    color: blueviolet;
+}
+img{
+    width: 100%; 
+    height:; 
+    object-fit: cover; 
+    object-position: center; 
+    
+}
+html {
+    scroll-behavior: smooth;
+  }
+  
